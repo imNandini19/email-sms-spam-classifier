@@ -1,3 +1,4 @@
+streamlit
 pandas
 numpy
 seaborn
@@ -6,6 +7,3 @@ scikit-learn
 nltk
 xgboost
 wordcloud
-sklearn
-
-
